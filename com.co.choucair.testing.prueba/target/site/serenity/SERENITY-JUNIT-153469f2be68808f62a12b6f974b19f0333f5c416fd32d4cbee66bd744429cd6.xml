@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="la tienda kabal quiere seleccionar las diferentes prendas de temporada," skipped="0" tests="1" time="188.94" timestamp="2021-10-24 11:27:58"><testcase name="el usuario realiza una compra  con varios productos"><failure message="Expected validacion&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected validacion
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected validacion
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+com.co.choucair.testing.prueba.stepdefinitions.CompraStepdefinitions.seVerificaLaCompraConExito(CompraStepdefinitions.java:47)&#13;
+✽.se verifica la compra con exito(src/test/resources/features/compra_exitosa.feature:11)&#13;
+</system-err></testcase></testsuite>
